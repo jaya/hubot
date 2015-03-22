@@ -1,3 +1,5 @@
-node_modules
+node_modules/*/
+!node_modules/hubot-circleci-notifier/
+node_modules/hubot-circleci-notifier/node_modules/*
 .DS_Store*
 .hubot_history
